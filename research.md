@@ -6,7 +6,7 @@ Please see my Google Scholar page (in sidebar/header) for a comprehensive and up
 
 ## Trust-Driven Human-Robot Collaboration
 
-<img src="content/research/human_robot_shaking_hands.png" width=150/>
+<img src="content/research/human_robot_shaking_hands.png" width="150">
 
 | <img src="content/research/human_robot_shaking_hands.png" width=150/> | *Collaborator(s): [Gregory Dudek](http://www.cim.mcgill.ca/~dudek/)* |
 
@@ -90,7 +90,7 @@ J. Gamboa, A. Xu, F. Shkurti, and G. Dudek: **Socially-Driven Collective Path Pl
 
 ## Efficient Terrain Coverage for Unmanned Aerial Vehicle
 
-| <img src="content/research/optimal_coverage.png" width=150/> | *Collaborator(s): [Ioannis Rekleitis](https://cse.sc.edu/~yiannisr/), [Patrick Virie (Chatavut Viriyasuthee)](http://www.cim.mcgill.ca/~pvirie/)* |
+| <img src="content/research/optimal_coverage.png" width=150/> | *Collaborator(s): [Ioannis Rekleitis](https://cse.sc.edu/~yiannisr/), [Patrick Virie (Chatavut Viriyasuthee)](mailto:pvirie@cim.mcgill.ca)* |
 
 This project investigates approaches for generating coverage patterns (via waypoints) of environments with obstacles, using a topological representation of the world.
 We apply an existing theoretical algorithm that guarantees complete and optimal terrain coverage to non-holonomic fixed wing aircrafts, and investigate methods for addressing practical concerns including vehicular dynamics and external factors such as wind.
@@ -105,7 +105,7 @@ A. Xu, C. Viriyasuthee, and I. Rekleitis: **Optimal Complete Terrain Coverage us
 
 ## Graphical State-Space Programming
 
-| <img src="content/research/gssp.png" width=150/> | *Collaborator(s): [Gregory Dudek](http://www.cim.mcgill.ca/~dudek/), [Jimmy Li](http://www.cim.mcgill.ca/~jimmyli/), [Junaed Sattar](https://junaedsattar.cs.umn.edu/), [Gabriel Charette](http://www.cim.mcgill.ca/~gchare/)* |
+| <img src="content/research/gssp.png" width=150/> | *Collaborator(s): [Gregory Dudek](http://www.cim.mcgill.ca/~dudek/), [Jimmy Li](http://www.cim.mcgill.ca/~jimmyli/), [Junaed Sattar](https://junaedsattar.cs.umn.edu/), [Gabriel Charette](mailto:gchare@cim.mcgill.ca)* |
 
 We are developing an interface for controlling mobile robots that combines aspects of graphical trajectory specification and state-space programming.
 Our objective is to facilitate the programming and debugging of robot execution plans, containing both scheduled trajectories and activities, as well as contingency plans and failsafe behaviors.
