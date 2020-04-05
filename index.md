@@ -13,4 +13,4 @@ I'm proud to be a [Vanier CGS scholar](https://vanier.gc.ca/).
 
 ---
 
-Page template forked from [evanca](https://github.com/evanca/quick-portfolio)
+<small>Page template forked from [evanca](https://github.com/evanca/quick-portfolio)</small>
