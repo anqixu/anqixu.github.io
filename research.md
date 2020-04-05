@@ -6,6 +6,8 @@ Please see my Google Scholar page (in sidebar/header) for a comprehensive and up
 
 ## Trust-Driven Human-Robot Collaboration
 
+<img src="content/research/human_robot_shaking_hands.png" width=150/>
+
 | <img src="content/research/human_robot_shaking_hands.png" width=150/> | *Collaborator(s): [Gregory Dudek](http://www.cim.mcgill.ca/~dudek/)* |
 
 We are interested in optimizing both the task performance and efficiency of interaction in a human-robot system.
