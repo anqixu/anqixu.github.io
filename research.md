@@ -42,12 +42,15 @@ Towards this end, we are developing efficient human-robot interaction methodolog
 A primary application domain for this research is vision-based robot navigation, for which complicated robot sensing and control algorithms can benefit a lot from the keen instincts of human visual system.
 
 A. Xu, Q. Zhang, D. Meger, and G. Dudek: **Interactive Autonomous Driving through Adaptation from Participation**, in *Proceedings of the 10th International Conference on Intelligent Unmanned Systems (ICIUS '14)*, Montreal, Canada, September 2014.
+
 [Abstract](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/icius2014_apexcommander.txt) | [Bibtex](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/icius2014_apexcommander.bib) | [PDF](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/icius2014_apexcommander.pdf) | [Videos](http://bit.ly/ICIUS2014AFP)
 
 A. Xu, A. Kalmbach, and G. Dudek: **Adaptive Parameter EXploration (APEX): Adaptation of Robot Autonomy from Human Participation**, in *Proceedings of the IEEE International Conference on Robotics and Automation (ICRA '14)*, pages 3315–3322, Hong Kong, China, May 2014.
+
 [Abstract](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/icra2014_apex.txt) | [Bibtex](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/icra2014_apex.bib) | [PDF](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/icra2014_apex.pdf) | [Video](http://bit.ly/ICRA2014APEX)
 
 A. Xu and G. Dudek: **A Vision-Based Boundary Following Framework for Aerial Vehicles**, in *Proceedings of the 2010 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS '10)*, pages 81–86, Taipei, Taiwan, October 2010.
+
 [Abstract](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/iros2010_uav.txt) | [Bibtex](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/iros2010_uav.bib) | [PDF](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/iros2010_uav.pdf) | [Video](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/iros2010_uav.mp4)
 
 See also: **Trust-Driven Interactive Visual Navigation for Autonomous Robots**
@@ -60,12 +63,15 @@ We are actively developing infrastructure for heterogeneous multi-robot systems 
 This project is the culmination and embodiment of a large number of projects involving robot hardware design, embedded computing, robot programming interfaces, and vision-based autonomous robot navigation controllers.
 
 F. Shkurti, A. Xu, M. Meghjani, J. Gamboa, Y. Girdhar, P. Giguere, B. Dey, J. Li, A. Kalmbach, C. Prahacs, K. Turgeon, I. Rekleitis, and G. Dudek: **Multi-Domain Monitoring of Marine Environments using a Heterogeneous Robot Team**, in *Proceedings of the 2012 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS '12)*, pages 1747–1753, Vilamoura, Portugal, October 2012.
+
 [Abstract](http://www.cim.mcgill.ca/~mrl/pubs/florian/iros2012.txt) | [Bibtex](http://www.cim.mcgill.ca/~mrl/pubs/florian/iros2012.bib) | [PDF](http://www.cim.mcgill.ca/~mrl/pubs/florian/iros2012.pdf) | [Video](http://www.cim.mcgill.ca/~anqixu/pub/iros2012.mp4)
 
 Y. Girdhar, A. Xu, F. Shkurti, J. Gamboa, M. Meghjani, P. Giguere, I. Rekleitis, G. Dudek: **Monitoring Marine Environments using a Team of Heterogeneous Robots**, in *RSS 2012 Workshop on Robotics for Environmental Monitoring (WREM '12)*, Sydney, Australia, July 2012.
+
 [Bibtex](http://www.cim.mcgill.ca/~yogesh/publications/wrem2012.bib) | [PDF](http://www.cim.mcgill.ca/~yogesh/publications/wrem2012.pdf)
 
 Y. Girdhar, A. Xu, B. Dey, M. Meghjani, F. Shkurti, I. Rekleitis, and G. Dudek: **MARE: Marine Autonomous Robotic Explorer**, in *Proceedings of the 2011 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS '11)*, pages 5048–5053, San Francisco, USA, September 2011.
+
 [Abstract](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/iros2011_boat.txt) | [Bibtex](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/iros2011_boat.bib) | [PDF](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/iros2011_boat.pdf) | [Video](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/iros2011_boat.mp4)
 
 ## Social Tele-Robotics
@@ -77,6 +83,7 @@ Since users may be operating under distinct objectives, one novelty lies in rela
 In particular, we have proposed an approximative path planning algorithm with parameterized control over the degree of "social fairness" in the selection of waypoints generated from different users.
 
 J. Gamboa, A. Xu, F. Shkurti, and G. Dudek: **Socially-Driven Collective Path Planning for Robot Missions**, in *Proceedings of the 2012 Ninth Conference on Computer and Robot Vision (CRV '12)*, pages 417–424, Toronto, Canada, May 2012.
+
 [Abstract](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/crv2012_social_plan.txt) | [Bibtex](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/crv2012_social_plan.bib) | [PDF](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/crv2012_social_plan.pdf)
 
 ## Efficient Terrain Coverage for Unmanned Aerial Vehicle
@@ -87,9 +94,11 @@ This project investigates approaches for generating coverage patterns (via waypo
 We apply an existing theoretical algorithm that guarantees complete and optimal terrain coverage to non-holonomic fixed wing aircrafts, and investigate methods for addressing practical concerns including vehicular dynamics and external factors such as wind.
 
 A. Xu, C. Viriyasuthee, and I. Rekleitis: **Efficient Complete Coverage of a Known Arbitrary Environment with Applications to Aerial Operations**, *Autonomous Robots*, 2013, DOI: 10.1007/s10514-013-9364-x.
+
 [Abstract](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/ar2013_optcov.txt) | [Bibtex](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/ar2013_optcov.bib) | [PDF](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/ar2013_optcov.pdf)
 
 A. Xu, C. Viriyasuthee, and I. Rekleitis: **Optimal Complete Terrain Coverage using an Unmanned Aerial Vehicle**, in *Proceedings of the 2011 IEEE International Conference on Robotics and Automation (ICRA '11)*, pages 2513–2519, Shanghai, China, May 2011.
+
 [Abstract](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/icra2011_optcov.txt) | [Bibtex](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/icra2011_optcov.bib) | [PDF](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/icra2011_optcov.pdf) | [Video](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/icra2011_optcov.mp4)
 
 ## Graphical State-Space Programming
@@ -100,9 +109,11 @@ We are developing an interface for controlling mobile robots that combines aspec
 Our objective is to facilitate the programming and debugging of robot execution plans, containing both scheduled trajectories and activities, as well as contingency plans and failsafe behaviors.
 
 J. Li, A. Xu, and G. Dudek: **Graphical State Space Programming: A Visual Programming Paradigm for Robot Task Specification**, in *Proceedings of the 2011 IEEE International Conference on Robotics and Automation (ICRA '11)*, pages 4846–4853, Shanghai, China, May 2011.
+
 [Abstract](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/icra2011_gssp.txt) | [Bibtex](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/icra2011_gssp.bib) | [PDF](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/icra2011_gssp.pdf) | [Video](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/icra2011_gssp.mpg)
 
 J. Sattar, A. Xu, G. Dudek, and G. Charette: **Graphical State-Space Programmability as a Natural Interface for Robotic Control**, in *Proceedings of the 2010 IEEE International Conference on Robotics and Automation (ICRA '10)*, pages 4609–4614, Anchorage, Alaska, USA, May 2010.
+
 [Abstract](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/icra2010_gssp.txt) | [Bibtex](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/icra2010_gssp.bib) | [PDF](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/icra2010_gssp.pdf)
 
 ## Fourier Tag: Gracefully Degradable Fiducial Markers
@@ -113,6 +124,7 @@ We are developing a visual fiducial marker system, akin to barcodes, to embed in
 By encoding the payload data within the frequency domain of the respective visual symbol, our system is capable of extracting part of the payload even when the marker is viewed from afar or when it is out of focus.
 
 A. Xu and G. Dudek: **Fourier Tag: A Smoothly Degradable Fiducial Marker System with Configurable Payload Capacity**, in *Proceedings of the Eighth Canadian Conference on Computer and Robot Vision (CRV '11)*, pages 40–47, St. John's, Newfoundland, Canada, May 2011.
+
 [Abstract](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/crv2011_ftag.txt) | [Bibtex](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/crv2011_ftag.bib) | [PDF](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/crv2011_ftag.pdf)
 
 ## RoboChat & RoboChat Gestures
@@ -123,9 +135,11 @@ We are investigating methods of direct communication between a diver and an unde
 We have developed a pseudo programming language constructed by showing the robot a sequence of markers, and we are also interested in gestural interaction as a method of implicitly conveying auxiliary information to the robot.
 
 A. Xu, G. Dudek, and J. Sattar: **A Natural Gesture Interface for Operating Robotic Systems**, in *Proceedings of the 2008 IEEE International Conference on Robotics and Automation (ICRA '08)*, pages 3557–3563, Pasadena, California, USA, May 2008.
+
 [Abstract](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/icra2008_gesture.txt) | [Bibtex](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/icra2008_gesture.bib) | [PDF](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/icra2008_gesture.pdf)
 
 G. Dudek, J. Sattar, and A. Xu: **A Visual Language for Robot Control and Programming: A Human-Interface Study**, in *Proceedings of the 2007 IEEE International Conference on Robotics and Automation (ICRA '07)*, pages 2507–2513, Roma, Lazio, Italy, April 2007.
+
 [Abstract](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/icra2007_robochat.txt) | [Bibtex](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/icra2007_robochat.bib) | [PDF](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/icra2007_robochat.pdf)
 
 ## Collaborations
@@ -133,7 +147,9 @@ G. Dudek, J. Sattar, and A. Xu: **A Visual Language for Robot Control and Progra
 I am extremely proud to have contributed to a number of collaborative projects along with numerous colleagues.
 
 D. Meger, J. C. Gamboa Higuera, A. Xu, P. Giguere, G. Dudek: **Learning Legged Swimming Gaits from Experience**, in *Proceedings of the 2015 IEEE International Conference on Robotics and Automation (ICRA '15) **(finalist for Best Conference Paper Award)***, pages 2332–2338, Seattle, Washington, USA, May 2015.
+
 [Project Page](http://www.cim.mcgill.ca/~dmeger/ICRA2015_GaitLearning/) | [Abstract](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/icra2015_gait_learning.txt) | [Bibtex](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/icra2015_gait_learning.bib) | [PDF](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/icra2015_gait_learning.pdf)
 
 M. Doniec, A. Xu, D. Rus: **Robust Real-Time High Definition Underwater Video Streaming with AquaOptical II**, in *Proceedings of the 2013 IEEE International Conference on Robotics and Automation (ICRA '13)*, pages 5117 — 5124, Karlsruhe, Germany, May 2013.
+
 [Abstract](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/icra2013_aquaoptical.txt) | [Bibtex](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/icra2013_aquaoptical.bib) | [PDF](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/icra2013_aquaoptical.pdf)
