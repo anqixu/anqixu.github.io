@@ -6,8 +6,7 @@ Please see my Google Scholar page (in sidebar/header) for a comprehensive and up
 
 ## Trust-Driven Human-Robot Collaboration
 
-| <img src="content/research/human_robot_shaking_hands.png" width=150></img> | *Collaborator(s): [Gregory Dudek](http://www.cim.mcgill.ca/~dudek/)* |
-|:---:|:---:|
+| <img src="content/research/human_robot_shaking_hands.png" width=150/> | *Collaborator(s): [Gregory Dudek](http://www.cim.mcgill.ca/~dudek/)* |
 
 We are interested in optimizing both the task performance and efficiency of interaction in a human-robot system.
 To achieve these objectives, we are developing a computational model that characterizes a human operator's degree of trust in an autonomous robotic system.
@@ -36,8 +35,7 @@ A. Xu and G. Dudek: **Trust-Driven Interactive Visual Navigation for Autonomous 
 
 ## Interactive Autonomy for Visual Navigation
 
-| <img src="content/research/sl_commander.png" width=150></img> | *Collaborator(s): [Arnold Kalmbach](mailto:akalmbach@cim.mcgill.ca), [Dave Meger](https://www.cim.mcgill.ca/~dmeger/), [Qiwen Zhang](mailto:qzhang32@cim.mcgill.ca), [Gregory Dudek](http://www.cim.mcgill.ca/~dudek/)* |
-|:---:|:---:|
+| <img src="content/research/sl_commander.png" width=150/> | *Collaborator(s): [Arnold Kalmbach](mailto:akalmbach@cim.mcgill.ca), [Dave Meger](https://www.cim.mcgill.ca/~dmeger/), [Qiwen Zhang](mailto:qzhang32@cim.mcgill.ca), [Gregory Dudek](http://www.cim.mcgill.ca/~dudek/)* |
 
 As robots become more intelligent and autonomous, a critical emerging research topic is how humans can interact and command these robots.
 Towards this end, we are developing efficient human-robot interaction methodologies, as well as learning algorithms targeting different levels of specificity within the robot's autonomous system.
@@ -56,8 +54,7 @@ See also: **Trust-Driven Interactive Visual Navigation for Autonomous Robots**
 
 ## Heterogeneous Multi-Robot Field Applications
 
-| <img src="content/research/mare.jpg" width=150></img> | *Collaborator(s): [Florian Shkurti](http://www.cs.toronto.edu/~florian/), [Malika Meghjani](http://www.cim.mcgill.ca/~malika/), [Yogesh Girdhar](http://cim.mcgill.ca/~yogesh/), [Juan Camilo Gamboa Higuera](http://www.cim.mcgill.ca/~gamboa/), [Bir Bikram Dey](http://www.cim.mcgill.ca/~birbikram/), [Ioannis Rekleitis](https://cse.sc.edu/~yiannisr/), [Gregory Dudek](http://www.cim.mcgill.ca/~dudek/)* |
-|:---:|:---:|
+| <img src="content/research/mare.jpg" width=150/> | *Collaborator(s): [Florian Shkurti](http://www.cs.toronto.edu/~florian/), [Malika Meghjani](http://www.cim.mcgill.ca/~malika/), [Yogesh Girdhar](http://cim.mcgill.ca/~yogesh/), [Juan Camilo Gamboa Higuera](http://www.cim.mcgill.ca/~gamboa/), [Bir Bikram Dey](http://www.cim.mcgill.ca/~birbikram/), [Ioannis Rekleitis](https://cse.sc.edu/~yiannisr/), [Gregory Dudek](http://www.cim.mcgill.ca/~dudek/)* |
 
 We are actively developing infrastructure for heterogeneous multi-robot systems targeting a variety of different field applications, such as the inspection of coral reefs and shallow seabeds.
 This project is the culmination and embodiment of a large number of projects involving robot hardware design, embedded computing, robot programming interfaces, and vision-based autonomous robot navigation controllers.
@@ -73,8 +70,7 @@ Y. Girdhar, A. Xu, B. Dey, M. Meghjani, F. Shkurti, I. Rekleitis, and G. Dudek: 
 
 ## Social Tele-Robotics
 
-| <img src="content/research/social_path_planning.jpg" width=150></img> | *Collaborator(s): [Juan Camilo Gamboa Higuera](http://www.cim.mcgill.ca/~gamboa/), [Florian Shkurti](http://www.cs.toronto.edu/~florian/), [Gregory Dudek](http://www.cim.mcgill.ca/~dudek/)* |
-|:---:|:---:|
+| <img src="content/research/social_path_planning.jpg" width=150/> | *Collaborator(s): [Juan Camilo Gamboa Higuera](http://www.cim.mcgill.ca/~gamboa/), [Florian Shkurti](http://www.cs.toronto.edu/~florian/), [Gregory Dudek](http://www.cim.mcgill.ca/~dudek/)* |
 
 This project investigates the family of problems where multiple users issue commands to one or more robots.
 Since users may be operating under distinct objectives, one novelty lies in relaying commands from multiple users to the robot(s) in an efficient and/or fair manner.
@@ -85,8 +81,7 @@ J. Gamboa, A. Xu, F. Shkurti, and G. Dudek: **Socially-Driven Collective Path Pl
 
 ## Efficient Terrain Coverage for Unmanned Aerial Vehicle
 
-| <img src="content/research/optimal_coverage.png" width=150></img> | *Collaborator(s): [Ioannis Rekleitis](https://cse.sc.edu/~yiannisr/), [Patrick Virie (Chatavut Viriyasuthee)](http://www.cim.mcgill.ca/~pvirie/)* |
-|:---:|:---:|
+| <img src="content/research/optimal_coverage.png" width=150/> | *Collaborator(s): [Ioannis Rekleitis](https://cse.sc.edu/~yiannisr/), [Patrick Virie (Chatavut Viriyasuthee)](http://www.cim.mcgill.ca/~pvirie/)* |
 
 This project investigates approaches for generating coverage patterns (via waypoints) of environments with obstacles, using a topological representation of the world.
 We apply an existing theoretical algorithm that guarantees complete and optimal terrain coverage to non-holonomic fixed wing aircrafts, and investigate methods for addressing practical concerns including vehicular dynamics and external factors such as wind.
@@ -99,8 +94,7 @@ A. Xu, C. Viriyasuthee, and I. Rekleitis: **Optimal Complete Terrain Coverage us
 
 ## Graphical State-Space Programming
 
-| <img src="content/research/gssp.png" width=150></img> | *Collaborator(s): [Gregory Dudek](http://www.cim.mcgill.ca/~dudek/), [Jimmy Li](http://www.cim.mcgill.ca/~jimmyli/), [Junaed Sattar](https://junaedsattar.cs.umn.edu/), [Gabriel Charette](http://www.cim.mcgill.ca/~gchare/)* |
-|:---:|:---:|
+| <img src="content/research/gssp.png" width=150/> | *Collaborator(s): [Gregory Dudek](http://www.cim.mcgill.ca/~dudek/), [Jimmy Li](http://www.cim.mcgill.ca/~jimmyli/), [Junaed Sattar](https://junaedsattar.cs.umn.edu/), [Gabriel Charette](http://www.cim.mcgill.ca/~gchare/)* |
 
 We are developing an interface for controlling mobile robots that combines aspects of graphical trajectory specification and state-space programming.
 Our objective is to facilitate the programming and debugging of robot execution plans, containing both scheduled trajectories and activities, as well as contingency plans and failsafe behaviors.
@@ -113,8 +107,7 @@ J. Sattar, A. Xu, G. Dudek, and G. Charette: **Graphical State-Space Programmabi
 
 ## Fourier Tag: Gracefully Degradable Fiducial Markers
 
-| <img src="content/research/ftag.jpg" width=150></img> | *Collaborator(s): [David Cortes](mailto:davidcp@cim.mcgill.ca), [Junaed Sattar](https://junaedsattar.cs.umn.edu/), [Gregory Dudek](http://www.cim.mcgill.ca/~dudek/)* |
-|:---:|:---:|
+| <img src="content/research/ftag.jpg" width=150/> | *Collaborator(s): [David Cortes](mailto:davidcp@cim.mcgill.ca), [Junaed Sattar](https://junaedsattar.cs.umn.edu/), [Gregory Dudek](http://www.cim.mcgill.ca/~dudek/)* |
 
 We are developing a visual fiducial marker system, akin to barcodes, to embed information and provide controllable positioning.
 By encoding the payload data within the frequency domain of the respective visual symbol, our system is capable of extracting part of the payload even when the marker is viewed from afar or when it is out of focus.
@@ -124,8 +117,7 @@ A. Xu and G. Dudek: **Fourier Tag: A Smoothly Degradable Fiducial Marker System 
 
 ## RoboChat & RoboChat Gestures
 
-| <img src="content/research/robochat.png" width=150></img> | *Collaborator(s): [Junaed Sattar](https://junaedsattar.cs.umn.edu/), [Gregory Dudek](http://www.cim.mcgill.ca/~dudek/)* |
-|:---:|:---:|
+| <img src="content/research/robochat.png" width=150/> | *Collaborator(s): [Junaed Sattar](https://junaedsattar.cs.umn.edu/), [Gregory Dudek](http://www.cim.mcgill.ca/~dudek/)* |
 
 We are investigating methods of direct communication between a diver and an underwater robot, by showing fiducial markers to the vehicle.
 We have developed a pseudo programming language constructed by showing the robot a sequence of markers, and we are also interested in gestural interaction as a method of implicitly conveying auxiliary information to the robot.
