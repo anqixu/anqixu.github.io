@@ -10,17 +10,9 @@
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
-    <style>
-      img + em {
-        display: block;
-        text-align: center;
-        font-size: 80%;
-        font-style: italic;
-      }
-    </style>    
   </head>
   <body>
-    <div class="wrapper">
+    <div class="wrapper" align="center">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
@@ -28,7 +20,7 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p align="center">{{ site.description }}</p>
+        <p>{{ site.description }}</p>
       </header>
       <section>
 
