@@ -1,35 +1,16 @@
-## Portfolio
+# About Me
+
+**Email**: *anqi (dot) xu (at) mail (period) mcgill (point) ca*
+
+Hi there! I am a Research Scientist at [Element AI](https://www.elementai.com/).
+I'm passionate about building adaptive AI and robotic systems to enhance our everyday workflow.
+Some of my research interests include interactive machine learning, computational mobile robotics, computer and robotic vision, and human-robot interaction.
+
+I am an allumnus member of the [Mobile Robotics Lab](http://www.cim.mcgill.ca/~mrl/), at the [Centre for Intelligent Machines](http://www.cim.mcgill.ca/) and the [School of Computer Science](https://www.cs.mcgill.ca/), at [McGill University](https://mcgill.ca/).
+My supervisor is [Professor Gregory Dudek](http://www.cim.mcgill.ca/~dudek/), whom I have worked with since my undergraduate days at McGill.
+My Ph.D., granted in 2017, focused on maintaining and improving the efficiency of human-robot teams by building trust in the relationship.
+I'm proud to be a [Vanier CGS scholar](https://vanier.gc.ca/).
 
 ---
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+Page template forked from [evanca](https://github.com/evanca/quick-portfolio)
