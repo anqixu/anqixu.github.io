@@ -4,13 +4,10 @@ description: >
   Research Scientist — Element AI
   <br>
   <br>
-  <a href="https://github.com/anqixu/"><img src="content/github_icon.png?raw=true" width=16/> my codebases</a>
-  <br>
-  <a href="https://scholar.google.ca/citations?user=l7X99s0AAAAJ"><img src="content/google_scholar_icon.png?raw=true" width=16/> my publications</a>
-  <br>
-  <a href="https://www.linkedin.com/in/iamanqixu/"><img src="content/linkedin_icon.png?raw=true" width=16/> my network</a>
-  <br>
-  <a href="content/cv.pdf?raw=true"><img src="content/resume_icon.png?raw=true" width=16/> my curriculum vitae</a>
+  <a href="https://github.com/anqixu/"><img src="content/github_icon.png?raw=true" width=24 alt="my codebases"/></a>
+  <a href="https://scholar.google.ca/citations?user=l7X99s0AAAAJ"><img src="content/google_scholar_icon.png?raw=true" width=24 alt="my publications"/></a>
+  <a href="https://www.linkedin.com/in/iamanqixu/"><img src="content/linkedin_icon.png?raw=true" width=24 alt="my network"/></a>
+  <a href="content/cv.pdf?raw=true"><img src="content/resume_icon.png?raw=true" width=24 alt="my curriculum vitae"/></a>
   <br>
   <br>
   <big><a href="thesis">Thesis</a> | <a href="research">Research</a></big>
