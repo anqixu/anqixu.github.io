@@ -2,7 +2,7 @@
 
 **Email**: *anqi (dot) xu (at) mail (period) mcgill (point) ca*
 
-Hi there! I am a Software Engineer at [Facebook Reality Labs](https://tech.fb.com/ar-vr/), working on World-Lock Rendering.
+Hi there! I am a Research Engineer at [Meta's Reality Labs](https://tech.fb.com/ar-vr/), working on evaluating World-Locked Rendering for Augmented Reality technologies.
 I'm passionate about building adaptive AI and robotic systems to enhance our everyday workflow.
 Some of my research interests include interactive machine learning, computational mobile robotics, computer and robotic vision, and human-robot interaction.
 
