@@ -146,6 +146,18 @@ G. Dudek, J. Sattar, and A. Xu: **A Visual Language for Robot Control and Progra
 
 I am extremely proud to have contributed to a number of collaborative projects along with numerous colleagues.
 
+R. Wiyatno, A. Xu, L. Paull: **Lifelong Topological Visual Navigation**, in *IEEE Robotics and Automation Letters (Volume 7 Issue 4)*, pages 9271-9278, October 2022. DOI 10.1109/LRA.2022.3189164.
+
+[Project Page](https://montrealrobotics.ca/ltvn/) | [arXiv](https://arxiv.org/abs/2110.08488) | [IEEE](https://ieeexplore.ieee.org/document/9817655)
+
+R. Wiyatno, A. Xu, O. Dia, A. de Berker: **Adversarial examples in modern machine learning: A review**, arXiv preprint arXiv:1911.05268.
+
+[arXiv](https://arxiv.org/abs/1911.05268)
+
+R. Wiyatno, A. Xu: **Physical adversarial textures that fool visual object tracking**, in *Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)*, 2019.
+
+[arXiv](https://arxiv.org/abs/1904.11042) | [CVF](https://openaccess.thecvf.com/content_ICCV_2019/html/Wiyatno_Physical_Adversarial_Textures_That_Fool_Visual_Object_Tracking_ICCV_2019_paper.html)
+
 D. Meger, J. C. Gamboa Higuera, A. Xu, P. Giguere, G. Dudek: **Learning Legged Swimming Gaits from Experience**, in *Proceedings of the 2015 IEEE International Conference on Robotics and Automation (ICRA '15) **(finalist for Best Conference Paper Award)***, pages 2332–2338, Seattle, Washington, USA, May 2015.
 
 [Project Page](http://www.cim.mcgill.ca/~dmeger/ICRA2015_GaitLearning/) | [Abstract](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/icra2015_gait_learning.txt) | [Bibtex](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/icra2015_gait_learning.bib) | [PDF](http://www.cim.mcgill.ca/~mrl/pubs/anqixu/icra2015_gait_learning.pdf)

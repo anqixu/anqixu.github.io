@@ -2,11 +2,11 @@
 
 **Email**: *anqi (dot) xu (at) mail (period) mcgill (point) ca*
 
-Hi there! I am a Research Engineer at [Meta's Reality Labs](https://tech.fb.com/ar-vr/), working on evaluating World-Locked Rendering for Augmented Reality technologies.
+Hi there! I am a Research Engineer at [Meta's Reality Labs](https://tech.fb.com/ar-vr/), working on quantifying World-Locked Rendering for Augmented Reality technologies.
 I'm passionate about building adaptive AI and robotic systems to enhance our everyday workflow.
-Some of my research interests include interactive machine learning, computational mobile robotics, computer and robotic vision, and human-robot interaction.
+Some of my research interests include interactive machine learning, computer and robotic vision, computational mobile robotics, and human-robot interaction.
 
-Previously, I was a Research Scientist at Element AI (now part of [ServiceNow](https://www.servicenow.com/)), where I worked on Reinforcement Learning, Adversarial Machine Learning, Robotics, and Computer Vision applied research.
+Previously, I was a Research Scientist at Element AI (now part of [ServiceNow](https://www.servicenow.com/)), where I worked on Deep Reinforcement Learning, Adversarial Machine Learning, Robotics, and Computer Vision applied research.
 
 I am an alumnus member of the [Mobile Robotics Lab](http://www.cim.mcgill.ca/~mrl/), at the [Centre for Intelligent Machines](http://www.cim.mcgill.ca/) and the [School of Computer Science](https://www.cs.mcgill.ca/), at [McGill University](https://mcgill.ca/).
 My supervisor is [Professor Gregory Dudek](http://www.cim.mcgill.ca/~dudek/), whom I have worked with since my undergraduate days at McGill.
