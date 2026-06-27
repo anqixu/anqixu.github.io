@@ -18,7 +18,3 @@ and the [School of Computer Science](https://www.cs.mcgill.ca/), at [McGill Univ
 My supervisor was [Professor Gregory Dudek](http://www.cim.mcgill.ca/~dudek/), whom I have worked with since my undergraduate days at McGill.
 My Ph.D., granted in 2017, focused on maintaining and improving the efficiency of human-robot teams by building trust in the relationship.
 I'm proud to be a [Vanier CGS scholar](https://vanier.gc.ca/).
-
----
-
-<small>Page template forked from [evanca](https://github.com/evanca/quick-portfolio)</small>
